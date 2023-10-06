@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: "A-OTF A1明朝 std",'Times New Roman', Times, serif;
+}
+#images{
+    text-align: center;
+}
+#title{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 2em;
+}
+#top{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 1.2em;
+    line-height: 70px;
+}
+h2,h3{
+    margin: 50px 100px;
+}
+p{
+    margin: 40px 130px;
+}
+/*.ho h3{
+    margin: 0 100px;
+}
+#ho1{
+    display: inline-block;
+    color: red;
+    border: solid 2px red;
+    background-color: white;
+}
+#ho2{
+    display: inline-block;
+    color: red;
+    border: solid 2px red;
+    background-color: white;
+}
+#ho3{
+    display: inline-block;
+    color: red;
+    border: solid 2px red;
+    background-color: white;
+}  */
+#movie{
+    display: flex;
+}
+#player{
+    display: flex;
+}
+#story a{
+    text-decoration: none;
+    color: white;
+}
+#story a:hover{
+    color: #ec6800;
+}
+#add a{
+    text-decoration: none;
+    color: white;
+}
+#add a:hover{
+    color: #ec6800;
+}
+.copy{
+    margin: 150px auto 50px;
+    color: white;
+    text-align: center;
+} 
